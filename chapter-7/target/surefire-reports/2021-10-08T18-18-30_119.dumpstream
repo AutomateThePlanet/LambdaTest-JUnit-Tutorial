@@ -1,0 +1,4 @@
+# Created at 2021-10-08T18:18:30.665
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SourceCode\LambdaTest-JUnit-Tutorial\chapter-2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
