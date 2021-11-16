@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="599ce73c-4495-409e-a4fa-2c14d5d9ebd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chapter-7/.idea/chapter-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/CalculateDistancesTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-8/.idea/chapter-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-8/.idea/chapter-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-8/chapter-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versionone/ToDoPageObjectsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versionthree/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versionthree/ToDoAppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versionthree/ToDoPageObjectsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versionthree/ToDoTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versionthree/WebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versiontwo/ToDoPageObjectsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versiontwo/ToDoTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versiontwo/WebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versiontwo/mainPage/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versiontwo/todoAppPage/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versiontwo/todoAppPage/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/junitdemo/po/versiontwo/todoAppPage/ToDoAppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionone/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionone/ToDoAppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionone/ToDoPageObjectsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionthree/ToDoPageObjectsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionthree/WebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionthree/mainpage/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionthree/todopage/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionthree/todopage/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versionthree/todopage/ToDoAppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versiontwo/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versiontwo/ToDoAppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versiontwo/ToDoPageObjectsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter-9/src/test/java/junitdemo/versiontwo/WebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/CompileTimeJsToDoTestsChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/CompileTimeJsToDoTestsChrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/CompileTimeJsToDoTestsFirefox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/CompileTimeJsToDoTestsFirefox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/DriverAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/DriverAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/PureJsToDoTestsChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/PureJsToDoTestsChrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/PureJsToDoTestsFirefox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-7/src/test/java/junitdemo/parallel/PureJsToDoTestsFirefox.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zEFlpFTD1NxQkr9oacfpPxsI0B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SourceCode\LambdaTest-JUnit-Tutorial\chapter-9 - temp-PO\src\test\java\junitdemo\po\versionthree" />
+      <recent name="D:\SourceCode\LambdaTest-JUnit-Tutorial\chapter-9 - temp-PO\src\test\java\junitdemo\po\versiontwo" />
+      <recent name="D:\SourceCode\LambdaTest-JUnit-Tutorial\chapter-3\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="junitdemo.po.versiontwo.todoAppPage" />
+      <recent name="junitdemo.po.versiontwo" />
+      <recent name="junitdemo.po.versionone" />
+      <recent name="junitdemo.parallel" />
+      <recent name="junitdemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CompileTimeJsToDoTestsChrome">
+    <configuration name="CompileTimeJsToDoTestsChrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junitdemo.po.versionone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitdemo.parallel" />
+      <option name="MAIN_CLASS_NAME" value="junitdemo.parallel.CompileTimeJsToDoTestsChrome" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompileTimeJsToDoTestsFirefox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter-6" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <patterns>
+        <pattern testClass="junitdemo.parallel.CompileTimeJsToDoTestsChrome" />
+        <pattern testClass="junitdemo.parallel.CompileTimeJsToDoTestsFirefox" />
+      </patterns>
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:junitdemo.parallel.CompileTimeJsToDoTestsFirefox]" />
+        <uniqueId value="[engine:junit-jupiter]/[class:junitdemo.parallel.CompileTimeJsToDoTestsChrome]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PureJsToDoTestsChrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junitdemo.po.versionone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitdemo.parallel" />
+      <option name="MAIN_CLASS_NAME" value="junitdemo.parallel.PureJsToDoTestsChrome" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PureJsToDoTestsChrome.verifyToDoListCreatedSuccessfully_withParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junitdemo.po.versionone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitdemo.parallel" />
+      <option name="MAIN_CLASS_NAME" value="junitdemo.parallel.PureJsToDoTestsChrome" />
+      <option name="METHOD_NAME" value="verifyToDoListCreatedSuccessfully_withParams(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[engine:junit-jupiter]/[class:junitdemo.parallel.PureJsToDoTestsChrome]/[test-template:verifyToDoListCreatedSuccessfully_withParams(java.lang.String)]/[test-template-invocation:#1]" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junitdemo.po.versionone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitdemo.parallel" />
+      <option name="MAIN_CLASS_NAME" value="junitdemo.parallel.PureJsToDoTestsChrome" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:junitdemo.parallel.PureJsToDoTestsChrome]/[test-template:verifyToDoListCreatedSuccessfully_withParams(java.lang.String)]/[test-template-invocation:#1]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CompileTimeJsToDoTestsChrome" />
+        <item itemvalue="JUnit.PureJsToDoTestsChrome.verifyToDoListCreatedSuccessfully_withParams" />
+        <item itemvalue="JUnit.[engine:junit-jupiter]/[class:junitdemo.parallel.PureJsToDoTestsChrome]/[test-template:verifyToDoListCreatedSuccessfully_withParams(java.lang.String)]/[test-template-invocation:#1]" />
+        <item itemvalue="JUnit.PureJsToDoTestsChrome" />
+        <item itemvalue="JUnit.CompileTimeJsToDoTestsFirefox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="599ce73c-4495-409e-a4fa-2c14d5d9ebd9" name="Default Changelist" comment="" />
+      <created>1633705494483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633705494483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
